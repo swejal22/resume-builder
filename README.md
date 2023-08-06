@@ -38,6 +38,9 @@ python resume_builder.py
 
 ## Screenshots
 
+![Screenshot (273)](https://github.com/swejal22/resume-builder/assets/71321163/4531d238-5835-4451-88d8-b871018e837f)
+
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions to improve the script, feel free to create an issue or submit a pull request.
